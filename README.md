@@ -46,10 +46,6 @@ This notebook is the third task of my Artificial Intelligence internship at iGAP
 │ ├── task-3.ipynb # Notebook with all visualization steps
 │ └── README.md # Documentation for Task 3
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 🏁 Status
